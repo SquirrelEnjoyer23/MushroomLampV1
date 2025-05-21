@@ -26,6 +26,6 @@ Buck converter to 5V
 
 Rotary encoder (can be mounted on a pcb if prefered)
 
-Led strip (12 inches, addressable, RGB, 5V, preferably 60 leds)
+Led strip (12 inches, addressable, RGB, 5V, preferably 60 leds) DEPENDING on your led strip you may need to cut connectors off
 
 **It is recommended to get high quality components especially for the splitter and the buck converter**
