@@ -29,3 +29,12 @@ Rotary encoder (can be mounted on a pcb if prefered)
 Led strip (12 inches, addressable, RGB, 5V, preferably 60 leds) DEPENDING on your led strip you may need to cut connectors off
 
 **It is recommended to get high quality components especially for the splitter and the buck converter**
+
+
+**Tools required**
+
+3D printer (or access to one if using the 3D models)
+
+Drill (to make holes to pass wires through)
+
+Soldering iron (depending on the parts you use, screw terminals and connectors can be used without one)
