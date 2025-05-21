@@ -18,6 +18,8 @@ Led Strip: 5v
 
 3D printed knob for light control OR something of your choice
 
+3D printed bottom and top for the cylinder OR somthing that is equivalent (Top is already included in the 3D model)
+
 Barrel jack splitter (1 female to 2 male)
 
 Buck converter to 5V
