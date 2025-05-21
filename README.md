@@ -10,7 +10,8 @@ Led Strip: 5v
 
 ![Untitled](https://github.com/user-attachments/assets/47a2e66f-97d6-46ff-b654-8348a965a057)
 
-Materials used:
+**Materials used:**
+
 3D printed cyliner OR A pipe of similar size
 
 3D printed dome
