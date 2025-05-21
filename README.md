@@ -22,7 +22,7 @@ Barrel jack splitter (1 female to 2 male)
 
 Buck converter to 5V
 
-Rotary encoder (can be mounted on a pcb)
+Rotary encoder (can be mounted on a pcb if prefered)
 
 Led strip (12 inches, addressable, RGB, 5V, preferably 60 leds)
 
