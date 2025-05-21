@@ -12,10 +12,15 @@ Led Strip: 5v
 
 Materials used:
 3D printed cyliner OR A pipe of similar size
+
 3D printed dome
+
 Barrel jack splitter (1 female to 2 male)
+
 Buck converter to 5V
+
 Rotary encoder (can be mounted on a pcb)
+
 Led strip (12 inches, addressable, RGB, 5V, preferably 60 leds)
 
-** It is recommended to get high quality components especially for the splitter and the buck converter **
+**It is recommended to get high quality components especially for the splitter and the buck converter**
