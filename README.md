@@ -8,4 +8,5 @@ Arduino: 9v
 
 Led Strip: 5v
 
-![Untitled](https://github.com/user-attachments/assets/39054b40-ec58-4ce2-b577-b01ed064fd33)
+
+![Untitled](https://github.com/user-attachments/assets/47a2e66f-97d6-46ff-b654-8348a965a057)
