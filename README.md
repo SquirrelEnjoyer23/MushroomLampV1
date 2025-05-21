@@ -16,6 +16,8 @@ Led Strip: 5v
 
 3D printed dome
 
+3D printed knob for light control OR something of your choice
+
 Barrel jack splitter (1 female to 2 male)
 
 Buck converter to 5V
