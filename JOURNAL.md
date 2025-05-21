@@ -18,3 +18,13 @@ On this day i decided to start on the project or the modeling of it at least, us
 
 
 **Total time spent: 6h**
+
+# 5/18/2025 (didnt document same day)
+On this day not much progress was made however i was attempting to figure out the final sizes so i decided to make a model it in blender to see how it would look I also decided to make the component that would allow the dome to sit on the cylinder which just turned out to be a hollow cylinder that would slide over.
+
+![image](https://github.com/user-attachments/assets/fa8792de-08b4-4a36-b3b3-d267cf2c9883)
+
+![Untitled](https://github.com/user-attachments/assets/941fe3a6-5923-4cff-a866-4e125927ed3e)
+
+
+**Total time spent: 2h**
