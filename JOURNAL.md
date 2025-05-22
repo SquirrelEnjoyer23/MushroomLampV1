@@ -28,3 +28,10 @@ On this day not much progress was made however i was attempting to figure out th
 
 
 **Total time spent: 3h**
+
+# 5/21/2025
+Today after researching the potential parts that can be used in the build i have decided on using, a barrel jack splitter, arduino uno, 9v to 5v buck converter, addressable rgb led strip, and a rotary encoder, These parts should make it easy to fix and change parts out while also giving room for customization of the code running the led's and as such changing things like what the controls on the rotary encoder do, Now that i have decided on using these parts next time i need to design the mechanism to hold the rotary encoder as well as a 3D model for the knob, and maybe even a specialized holder for the arduino and converter to make sure its nice and neat when it is stored away.
+
+![Project wiring diagram](https://github.com/user-attachments/assets/ae6c52a3-d92f-431d-b836-9c7b8d62c642)
+
+**Total time spent: 2h (research was across multiple days but not decided on till now)**
