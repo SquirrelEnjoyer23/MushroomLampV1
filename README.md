@@ -30,6 +30,8 @@ Led strip (12 inches, addressable, RGB, 5V, preferably 60 leds) DEPENDING on you
 
 Arduino Uno
 
+Wall plug that outputs 9v 3 amp (or 5 if you want to be on the safer side) to a barrel jack
+
 **It is recommended to get high quality components especially for the splitter and the buck converter**
 
 
