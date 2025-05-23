@@ -42,3 +42,5 @@ Wall plug that outputs 9v 3 amp (or 5 if you want to be on the safer side) to a 
 Drill (to make holes to pass wires through)
 
 Soldering iron (depending on the parts you use, screw terminals and connectors can be used without one)
+
+Super glue
