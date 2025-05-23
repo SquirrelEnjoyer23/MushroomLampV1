@@ -44,3 +44,18 @@ Drill (to make holes to pass wires through)
 Soldering iron (depending on the parts you use, screw terminals and connectors can be used without one)
 
 Super glue
+
+
+
+|     Item      |     Price     |
+| ------------- | ------------- |
+|Pipe           | N/A           |
+|Dome           | N/A           |
+|Knob           | N/A           |
+|Top/Bottom     | N/A           |
+|Barrel Splitter| N/A           |
+|Buck Converter | N/A           |
+|Rotary Encoder | N/A           |
+|Led Strip      | N/A           |
+|Arduino Uno    | N/A           |
+|Wall brick     | N/A           |
