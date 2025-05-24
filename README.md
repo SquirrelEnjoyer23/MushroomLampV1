@@ -34,6 +34,8 @@ Wall plug that outputs 9v 3 amp (or 5 if you want to be on the safer side) to a 
 
 Jumper cables (just for the arduino to talk to the lights as well as the encoder to arduino)
 
+USB cable for arduino (for programming it)
+
 **It is recommended to get high quality components especially for the splitter and the buck converter**
 
 
