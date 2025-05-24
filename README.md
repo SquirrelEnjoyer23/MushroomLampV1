@@ -49,13 +49,13 @@ Super glue
 
 |     Item      |                                                        Purpose                                                               |     Source    |     Price     |   Total   |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | --------- |
-|Pipe           |Storage for components                                                                                                        |N/A|           |N/A            |    N/A    |
-|Dome           |Visual part only and it contains the leds                                                                                     |N/A|           |N/A            |           |
-|Knob           |Connects to the rotary encoder for the ability to interact with the lamp                                                      |N/A|           |N/A            |           |
-|Top/Bottom     |For sealing up the lamp so its not all falling out + mounting the Dome                                                        |N/A|           |N/A            |           |
-|Barrel Splitter|Main power input and the ability to power all the components                                                                  |N/A|           |N/A            |           |
-|Buck Converter |Changing the power to 5 Volts to allow the leds to work correctly                                                             |N/A|           |N/A            |           |
+|Pipe           |Storage for components                                                                                                        |N/A            |N/A            |    N/A    |
+|Dome           |Visual part only and it contains the leds                                                                                     |N/A            |N/A            |           |
+|Knob           |Connects to the rotary encoder for the ability to interact with the lamp                                                      |N/A            |N/A            |           |
+|Top/Bottom     |For sealing up the lamp so its not all falling out + mounting the Dome                                                        |N/A            |N/A            |           |
+|Barrel Splitter|Main power input and the ability to power all the components                                                                  |N/A            |N/A            |           |
+|Buck Converter |Changing the power to 5 Volts to allow the leds to work correctly                                                             |N/A            |N/A            |           |
 |Rotary Encoder |The functional part behind the dial/knob which tells the micro controller what to do for brightness/when the button is pressed|N/A|           |N/A            |           |
-|Led Strip      |The part that actually makes the lamp light up                                                                                |N/A|           |N/A            |           |
-|Arduino Uno    |The main controller that actually allows for the rotary encoder to interact with the lights                                   |N/A|           |N/A            |           |
-|Wall brick     |For supplying power to the whole build                                                                                        |N/A|           |N/A            |           |
+|Led Strip      |The part that actually makes the lamp light up                                                                                |N/A            |N/A            |           |
+|Arduino Uno    |The main controller that actually allows for the rotary encoder to interact with the lights                                   |N/A            |N/A            |           |
+|Wall brick     |For supplying power to the whole build                                                                                        |N/A            |N/A            |           |
