@@ -47,15 +47,15 @@ Super glue
 
 
 
-|     Item      |     Purpose  
-| ------------- | -------------
-|Pipe           |Storage for components
-|Dome           |Visual part only and it contains the leds          
-|Knob           |Connects to the rotary encoder for the ability to interact with the lamp         
-|Top/Bottom     |For sealing up the lamp so its not all falling out + mounting the Dome         
-|Barrel Splitter|Main power input and the ability to power all the components         
-|Buck Converter |Changing the power to 5 Volts to allow the leds to work correctly         
-|Rotary Encoder |The functional part behind the dial/knob which tells the micro controller what to do for brightness/when the button is pressed       
-|Led Strip      |The part that actually makes the lamp light up          
-|Arduino Uno    |The main controller that actually allows for the rotary encoder to interact with the lights           
-|Wall brick     |For supplying power to the whole build      
+|     Item      |                                                        Purpose                                                               |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+|Pipe           |Storage for components                                                                                                        |
+|Dome           |Visual part only and it contains the leds                                                                                     |
+|Knob           |Connects to the rotary encoder for the ability to interact with the lamp                                                      |
+|Top/Bottom     |For sealing up the lamp so its not all falling out + mounting the Dome                                                        |
+|Barrel Splitter|Main power input and the ability to power all the components                                                                  |
+|Buck Converter |Changing the power to 5 Volts to allow the leds to work correctly                                                             |
+|Rotary Encoder |The functional part behind the dial/knob which tells the micro controller what to do for brightness/when the button is pressed|
+|Led Strip      |The part that actually makes the lamp light up                                                                                |
+|Arduino Uno    |The main controller that actually allows for the rotary encoder to interact with the lights                                   |
+|Wall brick     |For supplying power to the whole build                                                                                        |
