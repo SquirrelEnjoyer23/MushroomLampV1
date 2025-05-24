@@ -32,6 +32,8 @@ Arduino Uno
 
 Wall plug that outputs 9v 3 amp (or 5 if you want to be on the safer side) to a barrel jack
 
+Jumper cables (just for the arduino to talk to the lights as well as the encoder to arduino)
+
 **It is recommended to get high quality components especially for the splitter and the buck converter**
 
 
@@ -59,3 +61,4 @@ Super glue
 |Led Strip      |The part that actually makes the lamp light up                                                                                |N/A            |N/A            |           |
 |Arduino Uno    |The main controller that actually allows for the rotary encoder to interact with the lights                                   |N/A            |N/A            |           |
 |Wall brick     |For supplying power to the whole build                                                                                        |N/A            |N/A            |           |
+|Jumper cables  |Allowing for the arduino to talk to the lights as well as the rotary encoder                                                  |N/A            |N/A            |           |
