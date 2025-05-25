@@ -41,7 +41,7 @@ Today was spent researching specific components as it can be one thing to pick w
 
 ![image](https://github.com/user-attachments/assets/6cb0fa85-7d21-4497-abca-c249185f02e4)
 
-And then next i made the hardest model ever.... a flat disk to be used as the top and bottom of the lamp, while it may be simple this is essential to making it look professional, and i did the same thing with this model by making them larger than i expect them to be used as to allow for a perfect fit by sanding it down just enough to make a nice seal on the bottom, over all about 30 minutes was spent making these 2 models, but about 3 hours was spent researching parts
+And then next i made the hardest model ever.... a flat disk to be used as the top and bottom of the lamp, while it may be simple this is essential to making it look professional, and i did the same thing with this model by making them larger than i expect them to be used as to allow for a perfect fit by sanding it down just enough to make a nice seal on the bottom and top, over all about 30 minutes was spent making these 2 models, but about 3 hours was spent researching parts
 
 ![image](https://github.com/user-attachments/assets/c97de7bb-c118-425e-a202-046d888eb907)
 
