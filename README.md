@@ -63,4 +63,5 @@ USB cable for arduino (for programming it)
 |Wall brick     |For supplying power to the whole build                                                                                        |Amazon         |N/A            |      $0        |                       |
 |Jumper cables  |Allowing for the arduino to talk to the lights as well as the rotary encoder                                                  |Arduino        |$3.50          |Ships with uno  |                       |
 |Arduino USB    |Allowing for code to be written to the arduino                                                                                |Arduino        |$6.50          |Ships with uno  |                       |
-|Rubber feet    |Allowing the lamp to sit on a table without moving                                                                            |Lowes          |$8             |      $0        |         $111.04       |
+|Rubber feet    |Allowing the lamp to sit on a table without moving                                                                            |Lowes          |$8             |      $0        |                       |
+|Frosted Plastic|To act as a diffuser for the LEDS                                                                                             |Already have   |N/A            |      $0        |         $111.04       |
