@@ -6,8 +6,6 @@ author: "Gamer123"
 description: "A small mushroom shaped lamp perfect for a book light or mood lighting with adjustable brightness and color"
 
 created_at: "2024-05-21" (started creating before then just didnt journal it, sorry!)
-
-Total Time: ~14 Hours
 ---
 
 # 5/17/2025 (didnt document same day)
