@@ -35,3 +35,14 @@ Today after researching the potential parts that can be used in the build i have
 ![Project wiring diagram](https://github.com/user-attachments/assets/ae6c52a3-d92f-431d-b836-9c7b8d62c642)
 
 **Total time spent: 2h (research was across multiple days but not decided on till now)**
+
+# 5/24/2025
+Today was spent researching specific components as it can be one thing to pick what parts to use and another to pick what you will use exactly, this is also seen in the ReadMe with the parts list so i could finally start looking at the overall cost, it seems like the lamp will fit in the budget although not really suprising seeing how basic it is, and today was also spent making fairly basic models that could be used in the project, i started with making something similar to a standoff that could be used to mount the parts inside as i have decided not to make the custom holders like i thought before (to save time and money), however i was unsure about the exact sizes that would be used so i made them slightly larger than i expect them to be used as, that way they can be sanded down or cut down when needed
+
+![image](https://github.com/user-attachments/assets/6cb0fa85-7d21-4497-abca-c249185f02e4)
+
+And then next i made the hardest model ever.... a flat disk to be used as the top and bottom of the lamp, while it may be simple this is essential to making it look professional, and i did the same thing with this model by making them larger than i expect them to be used as to allow for a perfect fit by sanding it down just enough to make a nice seal on the bottom, over all about 30 minutes was spent making these 2 models, but about 3 hours was spent researching parts
+
+![image](https://github.com/user-attachments/assets/c97de7bb-c118-425e-a202-046d888eb907)
+
+**Total time spent: 3 1/2 hours**
