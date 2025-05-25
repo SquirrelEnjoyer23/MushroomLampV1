@@ -29,7 +29,7 @@ Led Strip: 5v
 
 3D printed bottom and top for the cylinder OR somthing that is equivalent (Top is already included in the 3D model)
 
-![image](https://github.com/user-attachments/assets/4ba1d57d-b602-475e-9242-aaf1fac35bea)
+![image](https://github.com/user-attachments/assets/43d246b1-16d0-4716-89cf-ccb2a369ca6a)
 
 Barrel jack splitter (1 female to 2 male)
 
