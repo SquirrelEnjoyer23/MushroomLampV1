@@ -1,4 +1,4 @@
-h# MushroomLampV1
+# MushroomLampV1
 The First Version of my mushroom lamp
 This lamp is meant to be customizable and DIY, utilizing a arduino as the main controller allowing for custom code to be ran that can allow for special patterns and customizable options for the front brightness dial, as well since it uses addressable led's it allows for even more customization.
 
