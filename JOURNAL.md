@@ -46,4 +46,4 @@ And then next i made the hardest model ever.... a flat disk to be used as the to
 
 ![image](https://github.com/user-attachments/assets/c97de7bb-c118-425e-a202-046d888eb907)
 
-**Total time spent: 3 1/2 hours**
+**Total time spent: 3 1/2 hours (most of which was in research)**
