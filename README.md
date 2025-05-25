@@ -14,11 +14,22 @@ Led Strip: 5v
 
 3D printed cyliner OR a pipe of similar size
 
+![image](https://github.com/user-attachments/assets/6b6eac99-6967-4066-8e2f-f911383ead53)
+
+
 3D printed dome
+
+![image](https://github.com/user-attachments/assets/92aa8df6-6c98-40a3-ac47-ee8876306808)
+
 
 3D printed knob for light control OR something of your choice
 
+![image](https://github.com/user-attachments/assets/b932d1b8-46ee-4e0c-8827-4fad2c0ed4bc)
+
+
 3D printed bottom and top for the cylinder OR somthing that is equivalent (Top is already included in the 3D model)
+
+![image](https://github.com/user-attachments/assets/4ba1d57d-b602-475e-9242-aaf1fac35bea)
 
 Barrel jack splitter (1 female to 2 male)
 
