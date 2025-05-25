@@ -1,4 +1,4 @@
-# MushroomLampV1
+h# MushroomLampV1
 The First Version of my mushroom lamp
 This lamp is meant to be customizable and DIY, utilizing a arduino as the main controller allowing for custom code to be ran that can allow for special patterns and customizable options for the front brightness dial, as well since it uses addressable led's it allows for even more customization.
 
@@ -46,7 +46,7 @@ USB cable for arduino (for programming it)
 |Top/Bottom     |For sealing up the lamp so its not all falling out + mounting the Dome                                                        |N/A            |N/A            |      $0        |                |
 |Barrel Splitter|Main power input and the ability to power all the components                                                                  |N/A            |N/A            |                |                |
 |Buck Converter |Changing the power to 5 Volts to allow the leds to work correctly                                                             |Amazon         |$9.99          |      $0        |                |
-|Rotary Encoder |The functional part behind the dial/knob which tells the micro controller what to do for brightness/when the button is pressed|Amazon         |$11.99         |                |                |
+|Rotary Encoder |The functional part behind the dial/knob which tells the micro controller what to do for brightness/when the button is pressed|Amazon         |$11.99         |      $0        |                |
 |Led Strip      |The part that actually makes the lamp light up                                                                                |N/A            |N/A            |                |                |
 |Arduino Uno    |The main controller that actually allows for the rotary encoder to interact with the lights                                   |Arduino        |$22.08         |                |                |
 |Wall brick     |For supplying power to the whole build                                                                                        |N/A            |N/A            |                |                |
