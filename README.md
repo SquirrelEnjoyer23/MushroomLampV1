@@ -38,7 +38,7 @@ USB cable for arduino (for programming it)
 
 **It is recommended to get high quality components especially for the splitter and the buck converter**
 
-|     Item      |                                                        Purpose                                                               |     Source    |     Price     |    Shipping    |    Total+Tax   |
+|     Item      |                                                        Purpose                                                               |     Source    |     Price     |    Shipping    |     Total      |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | -------------- | -------------- |
 |Pipe           |Storage for components                                                                                                        |Lowes          |$35            |      $0        |                |
 |Dome           |Visual part only and it contains the leds                                                                                     |3D printed     |N/A            |      $0        |                |
