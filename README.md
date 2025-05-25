@@ -38,18 +38,18 @@ USB cable for arduino (for programming it)
 
 **It is recommended to get high quality components especially for the splitter and the buck converter**
 
-|     Item      |                                                        Purpose                                                               |     Source    |     Price     |    Shipping    |     Total      |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | -------------- | -------------- |
-|Pipe           |Storage for components                                                                                                        |Lowes          |$35            |      $0        |                |
-|Dome           |Visual part only and it contains the leds                                                                                     |3D printed     |N/A            |      $0        |                |
-|Knob           |Connects to the rotary encoder for the ability to interact with the lamp                                                      |3D printed     |N/A            |      $0        |                |
-|Top/Bottom     |For sealing up the lamp so its not all falling out + mounting the Dome                                                        |3D printed     |N/A            |      $0        |                |
-|Barrel Splitter|Main power input and the ability to power all the components                                                                  |Amazon         |$8.99          |      $0        |                |
-|Buck Converter |Changing the power to 5 Volts to allow the leds to work correctly                                                             |Amazon         |$9.99          |      $0        |                |
-|Rotary Encoder |The functional part behind the dial/knob which tells the micro controller what to do for brightness/when the button is pressed|Amazon         |$11.99         |      $0        |                |
-|Led Strip      |The part that actually makes the lamp light up                                                                                |Amazon         |$5.49          |      $0        |                |
-|Arduino Uno    |The main controller that actually allows for the rotary encoder to interact with the lights                                   |Arduino        |$22.08(on sale)|      $3.67     |                |
-|Wall brick     |For supplying power to the whole build                                                                                        |Amazon         |N/A            |      $0        |                |
-|Jumper cables  |Allowing for the arduino to talk to the lights as well as the rotary encoder                                                  |Arduino        |$3.50          |Ships with uno  |                |
-|Arduino USB    |Allowing for code to be written to the arduino                                                                                |Arduino        |$6.50          |Ships with uno  |                |
-|Rubber feet    |Allowing the lamp to sit on a table without moving                                                                            |Lowes          |$8             |      $0        |     $111.04    |
+|     Item      |                                                        Purpose                                                               |     Source    |     Price     |    Shipping    | Total(with promocodes)|
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | -------------- | --------------------- |
+|Pipe           |Storage for components                                                                                                        |Lowes          |$35            |      $0        |                       |
+|Dome           |Visual part only and it contains the leds                                                                                     |3D printed     |N/A            |      $0        |                       |
+|Knob           |Connects to the rotary encoder for the ability to interact with the lamp                                                      |3D printed     |N/A            |      $0        |                       |
+|Top/Bottom     |For sealing up the lamp so its not all falling out + mounting the Dome                                                        |3D printed     |N/A            |      $0        |                       |
+|Barrel Splitter|Main power input and the ability to power all the components                                                                  |Amazon         |$8.99          |      $0        |                       |
+|Buck Converter |Changing the power to 5 Volts to allow the leds to work correctly                                                             |Amazon         |$9.99          |      $0        |                       |
+|Rotary Encoder |The functional part behind the dial/knob which tells the micro controller what to do for brightness/when the button is pressed|Amazon         |$11.99         |      $0        |                       |
+|Led Strip      |The part that actually makes the lamp light up                                                                                |Amazon         |$5.49          |      $0        |                       |
+|Arduino Uno    |The main controller that actually allows for the rotary encoder to interact with the lights                                   |Arduino        |$22.08(on sale)|      $3.67     |                       |
+|Wall brick     |For supplying power to the whole build                                                                                        |Amazon         |N/A            |      $0        |                       |
+|Jumper cables  |Allowing for the arduino to talk to the lights as well as the rotary encoder                                                  |Arduino        |$3.50          |Ships with uno  |                       |
+|Arduino USB    |Allowing for code to be written to the arduino                                                                                |Arduino        |$6.50          |Ships with uno  |                       |
+|Rubber feet    |Allowing the lamp to sit on a table without moving                                                                            |Lowes          |$8             |      $0        |         $111.04       |
