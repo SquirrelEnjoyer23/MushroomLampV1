@@ -9,7 +9,8 @@
 |Rotary Encoder |The functional part behind the dial/knob which tells the micro controller what to do for brightness/when the button is pressed|Amazon         |$11.99         |      $0        |                       |
 |Led Strip      |The part that actually makes the lamp light up                                                                                |Amazon         |$5.49          |      $0        |                       |
 |Arduino Uno    |The main controller that actually allows for the rotary encoder to interact with the lights                                   |Arduino        |$22.08(on sale)|      $3.67     |                       |
-|Wall brick     |For supplying power to the whole build                                                                                        |Amazon         |N/A            |      $0        |                       |
+|[Wall brick](https://www.amazon.com/9V-3A-Yetaida-Universal-Transformer/dp/B08L99PTDH
+)     |For supplying power to the whole build                                                                                        |Amazon         |N/A            |      $0        |                       |
 |Jumper cables  |Allowing for the arduino to talk to the lights as well as the rotary encoder                                                  |Arduino        |$3.50          |Ships with uno  |                       |
 |Arduino USB    |Allowing for code to be written to the arduino                                                                                |Arduino        |$6.50          |Ships with uno  |                       |
 |Rubber feet    |Allowing the lamp to sit on a table without moving                                                                            |Lowes          |$8             |      $0        |                       |
