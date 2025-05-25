@@ -1,4 +1,4 @@
----
+  ---
 title: "Mushroom Lamp"
 author: "Gamer123"
 description: "A small mushroom shaped lamp perfect for a book light or mood lighting with adjustable brightness and color"
