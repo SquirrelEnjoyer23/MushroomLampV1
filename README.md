@@ -40,15 +40,16 @@ USB cable for arduino (for programming it)
 
 |     Item      |                                                        Purpose                                                               |     Source    |Price+shipping |   Total   |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | --------- |
-|Pipe           |Storage for components                                                                                                        |N/A            |N/A            |    N/A    |
+|Pipe           |Storage for components                                                                                                        |Lowes          |$35            |    N/A    |
 |Dome           |Visual part only and it contains the leds                                                                                     |N/A            |N/A            |           |
 |Knob           |Connects to the rotary encoder for the ability to interact with the lamp                                                      |N/A            |N/A            |           |
 |Top/Bottom     |For sealing up the lamp so its not all falling out + mounting the Dome                                                        |N/A            |N/A            |           |
 |Barrel Splitter|Main power input and the ability to power all the components                                                                  |N/A            |N/A            |           |
-|Buck Converter |Changing the power to 5 Volts to allow the leds to work correctly                                                             |Amazon         |9.99           |           |
-|Rotary Encoder |The functional part behind the dial/knob which tells the micro controller what to do for brightness/when the button is pressed|Amazon         |11.99          |           |
+|Buck Converter |Changing the power to 5 Volts to allow the leds to work correctly                                                             |Amazon         |$9.99          |           |
+|Rotary Encoder |The functional part behind the dial/knob which tells the micro controller what to do for brightness/when the button is pressed|Amazon         |$11.99         |           |
 |Led Strip      |The part that actually makes the lamp light up                                                                                |N/A            |N/A            |           |
 |Arduino Uno    |The main controller that actually allows for the rotary encoder to interact with the lights                                   |N/A            |N/A            |           |
 |Wall brick     |For supplying power to the whole build                                                                                        |N/A            |N/A            |           |
 |Jumper cables  |Allowing for the arduino to talk to the lights as well as the rotary encoder                                                  |N/A            |N/A            |           |
 |Arduino USB    |Allowing for code to be written to the arduino                                                                                |N/A            |N/A            |           |
+|Rubber feet    |Allowing the lamp to sit on a table without moving                                                                            |Lowes          |$8             |           |
