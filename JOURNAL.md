@@ -47,3 +47,8 @@ And then next i made the hardest model ever.... a flat disk to be used as the to
 ![image](https://github.com/user-attachments/assets/c97de7bb-c118-425e-a202-046d888eb907)
 
 **Total time spent: 3 1/2 hours (most of which was in research)**
+
+# 5/29/2025
+In a effort to make the build cheaper i decided to move more towards USB c as i already have most of the parts on hand and the parts i would need would be much cheaper, doing this also gets rid of the converter and exchanges some of the parts for different ones (barrel splitter turning into a usb c splitter, arduino turning into a esp32, wall power from barrel to usb c)
+
+![image](https://github.com/user-attachments/assets/3f2d7d8f-2bb4-4396-99b1-9175b8883991)
