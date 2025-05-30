@@ -53,4 +53,4 @@ In a effort to make the build cheaper i decided to move more towards USB c as i 
 
 ![image](https://github.com/user-attachments/assets/3f2d7d8f-2bb4-4396-99b1-9175b8883991)
 
-**Total time spent: 2**
+**Total time spent: 2 hours**
