@@ -1,4 +1,4 @@
-|     Item      |                                                        Purpose                                                               |     Source    |     Price     |    Shipping    | Total(with promocodes)|
+|     Item      |                                                        Purpose                                                               |     Source    |     Price     |    Shipping    |         Total         |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | -------------- | --------------------- |
 |Pipe           |Storage for components                                                                                                        |Lowes          |$35            |      $0        |                       |
 |Dome           |Visual part only and it contains the leds                                                                                     |3D printed     |N/A            |      $0        |                       |
