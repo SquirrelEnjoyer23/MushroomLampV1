@@ -31,38 +31,33 @@ Led Strip: 5v
 
 ![image](https://github.com/user-attachments/assets/43d246b1-16d0-4716-89cf-ccb2a369ca6a)
 
-Barrel jack splitter (1 female to 2 male)
-
-Buck converter to 5V
+USB C splitter (1 female to 2 male)
 
 Rotary encoder (can be mounted on a pcb)
 
 Led strip (12 inches, addressable, RGB, 5V, preferably 60 leds) DEPENDING on your led strip you may need to cut connectors off
 
-Arduino Uno
+Esp32
 
-Wall plug that outputs 9v 3 amp (or 5 if you want to be on the safer side) to a barrel jack
+Wall plug that outputs to USB C
 
-Jumper cables (just for the arduino to talk to the lights as well as the encoder to arduino)
-
-USB cable for arduino (for programming it)
+Jumper cables (just for the esp32 to talk to the lights as well as the encoder to esp32)
 
 **It is recommended to get high quality components especially for the splitter and the buck converter**
 
-|     Item      |                                                        Purpose                                                               |     Source    |     Price     |    Shipping    | Total(with promocodes)|
+|     Item      |                                                        Purpose                                                               |     Source    |     Price     |    Shipping    |         Total         |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | -------------- | --------------------- |
 |Pipe           |Storage for components                                                                                                        |Lowes          |$35            |      $0        |                       |
 |Dome           |Visual part only and it contains the leds                                                                                     |3D printed     |N/A            |      $0        |                       |
 |Knob           |Connects to the rotary encoder for the ability to interact with the lamp                                                      |3D printed     |N/A            |      $0        |                       |
 |Top/Bottom     |For sealing up the lamp so its not all falling out + mounting the Dome                                                        |3D printed     |N/A            |      $0        |                       |
-|[Barrel Splitter](https://www.amazon.com/Maixbomr-Splitter-Security-Surveillance-Equipment/dp/B0BHX2GNRC)|Main power input and the ability to power all the components                                                                  |Amazon         |$8.99          |      $0        |                       |
-|[Buck Converter](https://www.amazon.com/gp/product/B01NALDSJ0) |Changing the power to 5 Volts to allow the leds to work correctly                                                             |Amazon         |$9.99          |      $0        |                       |
+|[UCB C Splitter](https://www.amazon.com/dp/B0BJ6BMXCY) |Main power input and the ability to power all the components                                                                  |Amazon         |$8.99          |      $0        |                       |
 |[Rotary Encoder](https://www.amazon.com/gp/product/B07T3672VK) |The functional part behind the dial/knob which tells the micro controller what to do for brightness/when the button is pressed|Amazon         |$11.99         |      $0        |                       |
 |[Led Strip](https://www.amazon.com/gp/product/B01CDTED80)      |The part that actually makes the lamp light up                                                                                |Amazon         |$8.99          |      $0        |                       |
-|[Arduino Uno](https://store-usa.arduino.cc/products/arduino-uno-rev3?variant=40391997587663)    |The main controller that actually allows for the rotary encoder to interact with the lights                                   |Arduino        |$22.08(on sale)|      $3.67     |                       |
-|[Wall brick](https://www.amazon.com/9V-3A-Yetaida-Universal-Transformer/dp/B08L99PTDH)     |For supplying power to the whole build                                                                                        |Amazon         |$9.90             |      $0        |                       |
-|[Jumper cables](https://store-usa.arduino.cc/products/40-colored-male-female-jumper-wires?variant=42819684860111)  |Allowing for the arduino to talk to the lights as well as the rotary encoder                                                  |Arduino        |$3.50          |Ships with uno  |                       |
-|[Arduino USB](https://store-usa.arduino.cc/products/usb-2-0-cable-type-ab?variant=42839295099087)    |Allowing for code to be written to the arduino                                                                                |Arduino        |$6.50          |Ships with uno  |                       |
-|Rubber mat    |Allowing the lamp to sit on a table without moving, (also to act as filler for parts of the 3D model)                          |Lowes          |$8             |      $0        |                       |
-|Frosted Plastic|To act as a diffuser for the LEDS                                                                                             |Already have   |N/A            |      $0        |         $120.86       |
-
+|Wall brick     |For supplying power to the whole build                                                                                        |Already have   |N/A            |      $0        |                       |
+|[Jumper cables](https://www.amazon.com/dp/B00D7SDDLU)  |Allowing for the esp32 to talk to the lights as well as the rotary encoder                                                  |Amazon         |$3.50          |      $0        |                       |
+|Rubber mat     |Allowing the lamp to sit on a table without moving, (also to act as filler for parts of the 3D model)                         |Lowes          |$8             |      $0        |                       |
+|USB C cables   |To connect the splitter and the components together                                                                           |Already have   |N/A            |      $0        |                       |
+|[Esp32](https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/113991054/16652880)          |The brains of the lamp                                                                                                        |Digikey        |$4.99          |      $4.99     |                       |
+|USB connectors |Allows for the leds to be powered from usb c                                                                                  |Already have   |N/A            |      $0        |                       |
+|Frosted Plastic|To act as a diffuser for the LEDS                                                                                             |Already have   |N/A            |      $0        |         $52.41        |
