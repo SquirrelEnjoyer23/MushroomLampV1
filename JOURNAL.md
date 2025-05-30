@@ -8,7 +8,7 @@ description: "A small mushroom shaped lamp perfect for a book light or mood ligh
 created_at: "2024-05-21" (started creating before then just didnt journal it, sorry!)
 ---
 
-# Total Time: ~14 Hours
+# Total Time: ~16 Hours
 
 # 5/17/2025 (didnt document same day)
 On this day i decided to start on the project or the modeling of it at least, using onshape i started with making the cylinder which would act as the main part of the lamp as it would be the base and hold all of the components and where things would be plugged in for power! and after making the cylinder i moved onto making the dome part of the lamp also in onshape but the sizes were far from final, Overall this was a fairly light day as i still wasnt sure what i was going to be using for the electronic part of it
@@ -52,3 +52,5 @@ And then next i made the hardest model ever.... a flat disk to be used as the to
 In a effort to make the build cheaper i decided to move more towards USB c as i already have most of the parts on hand and the parts i would need would be much cheaper, doing this also gets rid of the converter and exchanges some of the parts for different ones (barrel splitter turning into a usb c splitter, arduino turning into a esp32, wall power from barrel to usb c)
 
 ![image](https://github.com/user-attachments/assets/3f2d7d8f-2bb4-4396-99b1-9175b8883991)
+
+**Total time spent: 2**
