@@ -39,6 +39,11 @@ Wall plug that outputs to USB C
 
 Jumper cables (just for the esp32 to talk to the lights as well as the encoder to esp32)
 
+Rubber mat (to prevent the lamp from moving)
+
+USB C cables (to extend the connection coming off of the splitter)
+
+USB C connectors (to convert usb c to wires without having to cut anything)
 **It is recommended to get high quality components especially for the splitter and the buck converter**
 
 |     Item      |                                                        Purpose                                                               |     Source    |     Price     |    Shipping    |         Total         |
