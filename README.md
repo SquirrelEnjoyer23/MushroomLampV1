@@ -48,7 +48,7 @@ USB C connectors (to convert usb c to wires without having to cut anything)
 
 |     Item      |                                                        Purpose                                                               |     Source    |     Price     |    Shipping    |         Total         |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | -------------- | --------------------- |
-|Pipe           |Storage for components                                                                                                        |Lowes          |$35            |      $0        |                       |
+|Pipe           |Storage for components                                                                                                        |Already Have    |N/A           |      $0        |                       |
 |Dome           |Visual part only and it contains the leds                                                                                     |3D printed     |N/A            |      $0        |                       |
 |Knob           |Connects to the rotary encoder for the ability to interact with the lamp                                                      |3D printed     |N/A            |      $0        |                       |
 |Top/Bottom     |For sealing up the lamp so its not all falling out + mounting the Dome                                                        |3D printed     |N/A            |      $0        |                       |
@@ -61,4 +61,4 @@ USB C connectors (to convert usb c to wires without having to cut anything)
 |USB C cables   |To connect the splitter and the components together                                                                           |Already have   |N/A            |      $0        |                       |
 |[Esp32](https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/113991054/16652880)          |The brains of the lamp                                                                                                        |Digikey        |$4.99          |      $4.99     |                       |
 |USB connectors |Allows for the leds to be powered from usb c                                                                                  |Already have   |N/A            |      $0        |                       |
-|Frosted Plastic|To act as a diffuser for the LEDS                                                                                             |Already have   |N/A            |      $0        |         $87.41        |
+|Frosted Plastic|To act as a diffuser for the LEDS                                                                                             |Already have   |N/A            |      $0        |         $52.41        |
