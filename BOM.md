@@ -13,4 +13,4 @@
 |USB C cables   |To connect the splitter and the components together                                                                           |Already have   |N/A            |      $0        |                       |
 |Esp32          |The brains of the lamp                                                                                                        |Had a gift card im going to use        |$8.99          |      N/A     |                       |
 |USB connectors |Allows for the leds to be powered from usb c                                                                                  |Already have   |N/A            |      $0        |                       |
-|Frosted Plastic|To act as a diffuser for the LEDS                                                                                             |Already have   |N/A            |      $0        |         $14.09        |
+|Frosted Plastic|To act as a diffuser for the LEDS                                                                                             |Already have   |N/A            |      $0        |         $14.37        |
