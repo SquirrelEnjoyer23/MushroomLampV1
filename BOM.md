@@ -1,4 +1,4 @@
-|     Item      |                                                        Purpose                                                               |     Source    |     Price     |    Shipping    |         Total         |
+|     Item      |                                                        Purpose                                                               |     Source    |     Price     |    Shipping    |         Total(Some deals end on the 5th)         |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | -------------- | --------------------- |
 |Pipe           |Storage for components                                                                                                        |Already Have    |N/A           |      $0        |                       |
 |Dome           |Visual part only and it contains the leds                                                                                     |3D printed     |N/A            |      $0        |                       |
