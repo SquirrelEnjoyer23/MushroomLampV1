@@ -46,7 +46,7 @@ USB C cables (to extend the connection coming off of the splitter)
 USB C connectors (to convert usb c to wires without having to cut anything)
 
 
-|     Item      |                                                        Purpose                                                               |     Source    |     Price     |    Shipping    |         Total(Some deals end on the 5th)         |
+|     Item      |                                                        Purpose                                                               |     Source    |     Price     |    Shipping    |         Total         |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | -------------- | --------------------- |
 |Pipe           |Storage for components                                                                                                        |Already Have    |N/A           |      $0        |                       |
 |Dome           |Visual part only and it contains the leds                                                                                     |3D printed     |N/A            |      $0        |                       |
