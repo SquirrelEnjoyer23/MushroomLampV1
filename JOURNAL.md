@@ -54,3 +54,14 @@ In a effort to make the build cheaper i decided to move more towards USB c as i 
 ![image](https://github.com/user-attachments/assets/3f2d7d8f-2bb4-4396-99b1-9175b8883991)
 
 **Total time spent: 2 hours**
+
+# 6/16/2025
+Today i got the pipe all cleaned up as it was sitting outside for a while in the back yard, and put the newly 3d printed dome ontop and it turned out pretty good, now it is just time to wait for the aliexpress parts to arrive to actually make it work! and once i have a working prototype of the lamp then i will cut the pipe to the hight i want and put some finishing touches.
+
+![20250616_142232](https://github.com/user-attachments/assets/9fbd5274-c59a-4d93-a026-3fb9424d815d)
+
+![20250616_142036](https://github.com/user-attachments/assets/e1533043-417e-4965-b399-2ac55689e0ba)
+
+![20250616_142320 (1)](https://github.com/user-attachments/assets/d71a168b-1134-4fe0-878b-c605630b09f4)
+
+**Total time spent: 3 hours**
