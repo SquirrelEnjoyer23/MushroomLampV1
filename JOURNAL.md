@@ -64,4 +64,4 @@ Today i got the pipe all cleaned up as it was sitting outside for a while in the
 
 ![20250616_142320 (1)](https://github.com/user-attachments/assets/d71a168b-1134-4fe0-878b-c605630b09f4)
 
-**Total time spent: 3 hours**
+**Total time spent: 3 hours (cleaning up the dome and cleaning the pipe)**
