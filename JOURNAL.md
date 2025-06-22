@@ -68,7 +68,9 @@ Today i got the pipe all cleaned up as it was sitting outside for a while in the
 
 **Total time spent: 3 hours (cleaning up the dome and cleaning the pipe)**
 
-#6/21/2025
+# 6/21/2025
 Today i cut the pipe to the size i want it to be and also my parts arrived but not all of them yet! hopefully in the next few days i can get it all assembled.
 
 ![20250621_160740](https://github.com/user-attachments/assets/823652c5-af43-4c7b-8747-a384c87a1a5a)
+
+**Total time spent: 30 minutes**
