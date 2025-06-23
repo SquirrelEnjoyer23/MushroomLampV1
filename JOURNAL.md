@@ -74,3 +74,10 @@ Today i cut the pipe to the size i want it to be and also my parts arrived but n
 ![20250621_160740](https://github.com/user-attachments/assets/823652c5-af43-4c7b-8747-a384c87a1a5a)
 
 **Total time spent: 30 minutes**
+
+# 6/22/2025
+Today was a really exciting day i was able to get the led's working while connected to my arduino uno that i was using for testing, tommarow ill solder together the wires to make a better connection and then do some test fits in the actual lamp and try it with the rotary encoder hooked up!
+
+![image](https://github.com/user-attachments/assets/2329994e-c1c0-4995-ae36-290bd5b5bd64)
+
+**Total time spent: 1 hour**
