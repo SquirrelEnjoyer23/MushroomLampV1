@@ -10,7 +10,7 @@ created_at: "2024-05-21" (started creating before then just didnt journal it, so
 
 # Total Time: ~16 Hours before assembly
 
-# Total Time: ~6 Hours (Putting parts together)
+# Total Time: ~12 Hours (Putting parts together)
 
 # 5/17/2025 (didnt document same day)
 On this day i decided to start on the project or the modeling of it at least, using onshape i started with making the cylinder which would act as the main part of the lamp as it would be the base and hold all of the components and where things would be plugged in for power! and after making the cylinder i moved onto making the dome part of the lamp also in onshape but the sizes were far from final, Overall this was a fairly light day as i still wasnt sure what i was going to be using for the electronic part of it
@@ -89,4 +89,11 @@ Today i soldered together the power connector and the led wires and put some shr
 
 ![image](https://github.com/user-attachments/assets/7ab7a89d-11a2-4f49-987c-09c74ad22626)
 
-**Total time spent: 2 hour**
+**Total time spent: 2 hours**
+
+# 6/29/2025
+Today and over the past few days (i didnt journal it) i was working towards making the project final and today i decided to finally peace it all together with the painted tube and the wires all connected!
+
+![Resized_20250629_175912](https://github.com/user-attachments/assets/b95fcb49-91c5-4300-915a-ada2f349148e)
+
+**Total time spent: 6 hours**
